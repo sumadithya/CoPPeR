@@ -3,6 +3,7 @@
 	"displayName": "CoPPer - CP for VSCode",
 	"description": "A VS Code Extension suited for giving Competitive Programming Contests",
 	"version": "0.0.1",
+	"publisher": "sumadithya",
 	"engines": {
 		"vscode": "^1.46.0"
 	},
